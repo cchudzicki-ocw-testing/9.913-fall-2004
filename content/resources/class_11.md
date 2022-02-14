@@ -5,7 +5,12 @@ description: Lecture presentation on machine vision, tracking, sum of squared di
   the observation process.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-913-pattern-recognition-for-machine-vision-fall-2004/61435dc784a5b1fdd15def8c5b6ef0e7_class_11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Tracking Basics
+type: OCWFile
 uid: 61435dc7-84a5-b1fd-d15d-ef8c5b6ef0e7
 ---
