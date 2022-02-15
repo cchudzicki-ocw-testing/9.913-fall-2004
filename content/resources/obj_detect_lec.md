@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Object Detection using a Cascade of Classifiers
-type: OCWFile
 uid: 1e752764-1cd9-0cec-a60f-e3a27f5863ec
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Vision - Feature Extraction I
-type: OCWFile
 uid: b8a20ab3-42d9-9e51-2cfc-84cc1ab0b5be
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Principal Component Analysis & Independent Component Analysis
-type: OCWFile
 uid: b05e3cbd-fd9c-ddbb-a529-8c91dd9873ff
 ---

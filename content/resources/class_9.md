@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Class 9 \u2013 Object Detection and Recognition"
-type: OCWFile
 uid: 0fe97ac5-2535-95b4-4e36-188a3b443738
 ---

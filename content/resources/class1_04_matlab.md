@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Quick Matlab Tutorial '
-type: OCWFile
 uid: ddc01ebe-e9eb-4975-867b-47db1fecf4e4
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Class 8-2 \u2013 An Application of Clustering"
-type: OCWFile
 uid: d70f6e12-c4b6-d7d9-f41c-4015df5ff568
 ---

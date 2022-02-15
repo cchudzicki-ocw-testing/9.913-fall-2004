@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Class IV Part I \u2013 Bayesian Decision Theory"
-type: OCWFile
 uid: 39ddfd23-aa6b-b2a2-a746-c0e9c43ca309
 ---
